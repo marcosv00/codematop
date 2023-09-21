@@ -1,6 +1,6 @@
 ### Olá eu sou o marcosv00👋
 
-![codematop GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosv00&show_icons=true&theme=dark)
+![marcosv00 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosv00&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso
 
