@@ -2,7 +2,7 @@
 
 ![marcosv00 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosv00&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosv00&theme=dark&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosv00&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosv00&langs_count=8&layout=compact&theme=dark)
 ## Tecnologias que eu uso
 
 <div style="display: inline_block"></br>
