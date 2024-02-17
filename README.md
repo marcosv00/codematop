@@ -10,5 +10,5 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 </div>
 <hr>
-<a href="http://www.linkedin.com/in/marcos-batista-da-costa-246a89265" target="_blank"><img align="right" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="http://www.linkedin.com/in/marcos-batista-da-costa-246a89265" ><img align="right" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
